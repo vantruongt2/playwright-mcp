@@ -1,0 +1,11 @@
+{
+    "servers": {
+        "mcp-server-time": {
+            "command": "npx",
+            "args": [
+                "@playwright/mcp@latest"
+            ],
+            "env": {}
+        }
+    }
+}
