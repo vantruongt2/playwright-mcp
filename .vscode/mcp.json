@@ -11,7 +11,8 @@
         "playwright": {
             "command": "npx",
             "args": [
-                "@playwright/mcp@latest"
+                "@playwright/mcp@latest",
+                "--isolated"
             ],
             "env": {}
         },
